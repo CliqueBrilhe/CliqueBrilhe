@@ -26,10 +26,7 @@ Além da experiência do cliente, o projeto também foi estruturado com uma base
 [![vite](https://img.shields.io/badge/vite-orange?style=for-the-badge&logo=vite&logoColor=white)](https://)
 [![Axios](https://img.shields.io/badge/Axios-pink?style=for-the-badge&logo=axios&logoColor=black)](https://)
 [![tailwindcss](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://)
-[![shadcnui](https://img.shields.io/badge/shadcnui-purple?style=for-the-badge&logo=shadcnui&logoColor=white)](https://)
 
-
-<br>
 
 <h3> 👑 Backend </h3>
 
@@ -45,6 +42,15 @@ Além da experiência do cliente, o projeto também foi estruturado com uma base
 [![typeorm](https://img.shields.io/badge/typeorm-black?style=for-the-badge&logo=typeorm&logoColor=white)](https://)
 [![swagger](https://img.shields.io/badge/swagger-green?style=for-the-badge&logo=swagger&logoColor=white)](https://)
 
+<h3> ⚙️ Infraestrutura e Ferramentas </h3>
+
+[![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](https://)
+[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://)
+[![vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://)
+[![railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://)
+[![eslint](https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint&logoColor=white)](https://)
+
 <h2> Histórico de desenvolvedores</h2>
+
 
 
