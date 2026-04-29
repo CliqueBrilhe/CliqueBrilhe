@@ -10,10 +10,16 @@ Além da experiência do cliente, o projeto também foi estruturado com uma base
 
 </p>
 
+[![Frontend](https://img.shields.io/badge/Frontend-pink?style=for-the-badge)](https://github.com/CliqueBrilhe/ecommerce-frontend)
+[![Backend](https://img.shields.io/badge/Backend-darkblue?style=for-the-badge)](https://github.com/CliqueBrilhe/ecommerce-frontend)
+
+
 <h2>🤖 Stacks </h2>
 
 
+
 <h3>🩷 Frontend </h3>
+
 <p>
   O frontend utiliza TypeScript como linguagem principal e React 18 como framework para construção da interface. O projeto é compilado com Vite, garantindo rapidez no ambiente de desenvolvimento e builds otimizadas para produção.
 
@@ -29,6 +35,7 @@ Além da experiência do cliente, o projeto também foi estruturado com uma base
 
 
 <h3> 👑 Backend </h3>
+
 
 <p>
   O backend foi desenvolvido em TypeScript utilizando NestJS, estruturado com arquitetura modular e foco em manutenção de longo prazo.
