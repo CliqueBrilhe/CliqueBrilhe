@@ -50,7 +50,39 @@ Além da experiência do cliente, o projeto também foi estruturado com uma base
 [![railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://)
 [![eslint](https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint&logoColor=white)](https://)
 
-<h2> Histórico de desenvolvedores</h2>
+<h2> 🤓 Histórico de desenvolvedores</h2>
 
+<div align="center"> 
 
+<table>
+  <thead>
+    <tr>
+      <th>Fullstack</th>
+      <th>Fullstack</th>
+      <th>Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/gabriellesote">
+          <img src="https://avatars.githubusercontent.com/u/137116157?v=4" width="115"><br>
+          <b>Gabrielle Soares</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/copiaomeunome">
+          <img src="https://avatars.githubusercontent.com/u/86266348?v=4" width="115"><br>
+          <b>Heitor Augusto</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoGrillo">
+          <img src="https://avatars.githubusercontent.com/u/85766125?v=4" width="115"><br>
+          <b>Eduardo Grillo</b>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
