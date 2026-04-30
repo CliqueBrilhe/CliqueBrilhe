@@ -11,7 +11,7 @@ Além da experiência do cliente, o projeto também foi estruturado com uma base
 </p>
 
 [![Frontend](https://img.shields.io/badge/Frontend-pink?style=for-the-badge)](https://github.com/CliqueBrilhe/ecommerce-frontend)
-[![Backend](https://img.shields.io/badge/Backend-darkblue?style=for-the-badge)](https://github.com/CliqueBrilhe/ecommerce-frontend)
+[![Backend](https://img.shields.io/badge/Backend-darkblue?style=for-the-badge)](https://github.com/CliqueBrilhe/backend-refact)
 
 
 <h2>🤖 Stacks </h2>
