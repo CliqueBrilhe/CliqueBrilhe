@@ -57,7 +57,7 @@ Além da experiência do cliente, o projeto também foi estruturado com uma base
 [![railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://)
 [![eslint](https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint&logoColor=white)](https://)
 
-<h2> 🤓 Histórico de desenvolvedores</h2>
+<h2> 🤓 Histórico de Programadores </h2>
 
 <div align="center"> 
 
