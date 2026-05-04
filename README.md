@@ -66,7 +66,7 @@ Além da experiência do cliente, o projeto também foi estruturado com uma base
     <tr>
       <th>Fullstack</th>
       <th>Fullstack</th>
-      <th>Frontend</th>
+      <th>Fullstack</th>
     </tr>
   </thead>
   <tbody>
